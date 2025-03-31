@@ -37,7 +37,7 @@ A simple Flappy Bird clone built using Python and Pygame.
 - Try to get the highest score!
 
 ## Preview
-![Gameplay](./assets/videos/Game_Demo.gif)
+![Gameplay](./assets/videos/Game_demo.gif)
 
 ## License
 This project is for educational purposes and does not have a specific license.
